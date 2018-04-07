@@ -1,0 +1,2 @@
+# 補間時大文字小文字無視
+set completion-ignore-case on
